@@ -7,6 +7,7 @@ Kernel 6.13 with patch zen , template for VoidLinux
 
 This repository contains the xsrc folder necesary to build the linux 6.13-zen and linux6.13-zen-headers, as well the template to install kernel 6.13an the path for it from zen-kernel repository.
 
+Binaries https://voidrepo.linuxnauta.com/
 
 ## NOTE
 
